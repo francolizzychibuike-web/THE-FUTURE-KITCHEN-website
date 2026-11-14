@@ -1,0 +1,557 @@
+{
+  "menuItems": [
+    {
+      "id": "menu_1",
+      "name": "Smokey Party Jollof Rice with Grilled Chicken & Dodo",
+      "category": "Nigerian Rice Dishes",
+      "description": "Iconic Nigerian long-grain rice infused with fire-roasted peppers, aromatic herbs and authentic firewood smoke. Served with succulent grilled quarter chicken and sweet golden plantains.",
+      "price": 5500,
+      "image": "/src/assets/images/dish_jollof_deluxe_1794331885583.jpg",
+      "isAvailable": true,
+      "isFeatured": true,
+      "preparationTime": "20-25 mins",
+      "spiciness": "Medium",
+      "tags": [
+        "Bestseller",
+        "Signature",
+        "Chef Pick"
+      ],
+      "createdAt": "2026-11-10T17:42:09.064Z"
+    },
+    {
+      "id": "menu_2",
+      "name": "Deluxe Special Fried Rice with Jumbo Prawns",
+      "category": "Nigerian Rice Dishes",
+      "description": "Stir-fried Nigerian rice with garden peas, sweet corn, diced liver, carrots, and sweet bell peppers, crowned with succulent butterflied jumbo tiger prawns.",
+      "price": 6800,
+      "image": "/src/assets/images/hero_nigerian_feast_1794331884704.jpg",
+      "isAvailable": true,
+      "isFeatured": true,
+      "preparationTime": "20-25 mins",
+      "spiciness": "Mild",
+      "tags": [
+        "Seafood",
+        "Popular"
+      ],
+      "createdAt": "2026-11-10T17:42:09.065Z"
+    },
+    {
+      "id": "menu_3",
+      "name": "Authentic Ofada Rice with Ayamase Designer Stew",
+      "category": "Nigerian Rice Dishes",
+      "description": "Aromatic unpolished indigenous Ofada rice wrapped in fresh banana leaves, paired with fiery bleached palm oil green pepper stew, assorted bite-sized meats and boiled egg.",
+      "price": 7500,
+      "image": "/src/assets/images/dish_jollof_deluxe_1794331885583.jpg",
+      "isAvailable": true,
+      "isFeatured": false,
+      "preparationTime": "25-30 mins",
+      "spiciness": "Hot",
+      "tags": [
+        "Traditional",
+        "Fiery"
+      ],
+      "createdAt": "2026-11-10T17:42:09.065Z"
+    },
+    {
+      "id": "menu_4",
+      "name": "Native Village Rice with Dried Fish & Ugba",
+      "category": "Nigerian Rice Dishes",
+      "description": "Traditional palm oil infused rice cooked with smoked mangala fish, crayfish flakes, shredded ugba (oil bean), and fresh scent leaves.",
+      "price": 6000,
+      "image": "/src/assets/images/hero_nigerian_feast_1794331884704.jpg",
+      "isAvailable": true,
+      "isFeatured": false,
+      "preparationTime": "20 mins",
+      "spiciness": "Medium",
+      "tags": [
+        "Heritage"
+      ],
+      "createdAt": "2026-11-10T17:42:09.065Z"
+    },
+    {
+      "id": "menu_5",
+      "name": "Special Egusi Soup with Assorted Meats & Pounded Yam",
+      "category": "Soups and Swallows",
+      "description": "Rich hand-rolled melon seed soup simmered with dried stockfish, tender beef tripe (shaki), cowleg, bitterleaf, and fluted pumpkin. Served with pillowy smooth pounded yam.",
+      "price": 7500,
+      "image": "/src/assets/images/dish_swallow_egusi_1794331886342.jpg",
+      "isAvailable": true,
+      "isFeatured": true,
+      "preparationTime": "20-25 mins",
+      "spiciness": "Medium",
+      "tags": [
+        "Signature",
+        "Bestseller"
+      ],
+      "createdAt": "2026-11-10T17:42:09.065Z"
+    },
+    {
+      "id": "menu_6",
+      "name": "Seafood Okro Soup with Fresh Crab, Prawns & Eba",
+      "category": "Soups and Swallows",
+      "description": "Velvety chopped fresh okro loaded with fresh Atlantic blue crab, calamari rings, jumbo tiger prawns, and fresh scotch bonnet pepper. Paired with soft yellow Garri Eba.",
+      "price": 9500,
+      "image": "/src/assets/images/dish_swallow_egusi_1794331886342.jpg",
+      "isAvailable": true,
+      "isFeatured": true,
+      "preparationTime": "25 mins",
+      "spiciness": "Medium",
+      "tags": [
+        "Seafood Special"
+      ],
+      "createdAt": "2026-11-10T17:42:09.065Z"
+    },
+    {
+      "id": "menu_7",
+      "name": "Rich Ogbono & Bitterleaf Soup with Goat Meat & Amala",
+      "category": "Soups and Swallows",
+      "description": "Smooth, deeply flavoured wild mango seed soup cooked with dry cat fish, tender goat meat and shredded bitterleaf, accompanied by soft piping hot Oyo Amala.",
+      "price": 7000,
+      "image": "/src/assets/images/dish_swallow_egusi_1794331886342.jpg",
+      "isAvailable": true,
+      "isFeatured": false,
+      "preparationTime": "20 mins",
+      "spiciness": "Medium",
+      "tags": [
+        "Traditional"
+      ],
+      "createdAt": "2026-11-10T17:42:09.065Z"
+    },
+    {
+      "id": "menu_8",
+      "name": "Calabar Afang Soup with Smoked Fish & Semovita",
+      "category": "Soups and Swallows",
+      "description": "Classic Efik delight prepared with wild shredded afang leaves, waterleaves, periwinkles in their shells, beef and dried bushmeat. Served with silky smooth Semovita.",
+      "price": 8000,
+      "image": "/src/assets/images/dish_swallow_egusi_1794331886342.jpg",
+      "isAvailable": true,
+      "isFeatured": false,
+      "preparationTime": "25 mins",
+      "spiciness": "Medium",
+      "tags": [
+        "Calabar Classic"
+      ],
+      "createdAt": "2026-11-10T17:42:09.065Z"
+    },
+    {
+      "id": "menu_9",
+      "name": "Flaming Beef Suya Platter with Yaji & Sliced Red Onions",
+      "category": "Grilled Foods",
+      "description": "Thinly sliced choice beef skewers grilled over glowing hardwood charcoal, dusted generously with authentic Northern Nigerian spiced kuli-kuli Yaji pepper, sliced onions and fresh tomatoes.",
+      "price": 4800,
+      "image": "/src/assets/images/dish_grilled_suya_1794331885995.jpg",
+      "isAvailable": true,
+      "isFeatured": true,
+      "preparationTime": "15-20 mins",
+      "spiciness": "Hot",
+      "tags": [
+        "Top Rated",
+        "Street Gourmet"
+      ],
+      "createdAt": "2026-11-10T17:42:09.065Z"
+    },
+    {
+      "id": "menu_10",
+      "name": "Charcoal Grilled Whole Croaker Fish with Yam Chips",
+      "category": "Grilled Foods",
+      "description": "Whole seasoned fresh Atlantic croaker fish, slow-charred over open flame with garlic, ginger and our house pepper marinade. Served with crispy fried yam chips and spicy pepper dip.",
+      "price": 12500,
+      "image": "/src/assets/images/hero_nigerian_feast_1794331884704.jpg",
+      "isAvailable": true,
+      "isFeatured": true,
+      "preparationTime": "30 mins",
+      "spiciness": "Hot",
+      "tags": [
+        "Chef Signature",
+        "Platter"
+      ],
+      "createdAt": "2026-11-10T17:42:09.065Z"
+    },
+    {
+      "id": "menu_11",
+      "name": "Spicy Asun (Slow-Roasted Peppered Goat Meat)",
+      "category": "Grilled Foods",
+      "description": "Tender diced goat meat roasted over open fire, tossed in habanero peppers, aromatic thyme, and caramelized sweet onions. Pure Lagos party delight.",
+      "price": 6500,
+      "image": "/src/assets/images/dish_grilled_suya_1794331885995.jpg",
+      "isAvailable": true,
+      "isFeatured": true,
+      "preparationTime": "15-20 mins",
+      "spiciness": "Hot",
+      "tags": [
+        "Bestseller"
+      ],
+      "createdAt": "2026-11-10T17:42:09.065Z"
+    },
+    {
+      "id": "menu_12",
+      "name": "Honey Glazed Peppered Chicken Wings",
+      "category": "Grilled Foods",
+      "description": "Crispy charcoal grilled jumbo wings tossed in a sweet-spicy reduction of Nigerian wild honey, scotch bonnet peppers, and roasted garlic.",
+      "price": 4200,
+      "image": "/src/assets/images/dish_grilled_suya_1794331885995.jpg",
+      "isAvailable": true,
+      "isFeatured": false,
+      "preparationTime": "15 mins",
+      "spiciness": "Medium",
+      "tags": [
+        "Bar Favorite"
+      ],
+      "createdAt": "2026-11-10T17:42:09.065Z"
+    },
+    {
+      "id": "menu_13",
+      "name": "Gourmet Naija Beef & Cheese Burger with Spiced Fries",
+      "category": "Fast Foods",
+      "description": "Juicy 200g prime beef patty seasoned with suya spice, melted cheddar cheese, caramelized onions, fresh crisp lettuce, and spicy mayo on a toasted brioche bun with hand-cut fries.",
+      "price": 5200,
+      "image": "/src/assets/images/hero_nigerian_feast_1794331884704.jpg",
+      "isAvailable": true,
+      "isFeatured": false,
+      "preparationTime": "15 mins",
+      "spiciness": "Mild",
+      "tags": [
+        "Fusion"
+      ],
+      "createdAt": "2026-11-10T17:42:09.065Z"
+    },
+    {
+      "id": "menu_14",
+      "name": "Chicken Shawarma Deluxe with Double Sausage",
+      "category": "Fast Foods",
+      "description": "Thin Lebanese flatbread loaded with shredded spiced chicken breast, twin beef sausages, fresh cabbage, pickled cucumbers, and our signature rich sweet garlic dressing.",
+      "price": 3500,
+      "image": "/src/assets/images/hero_nigerian_feast_1794331884704.jpg",
+      "isAvailable": true,
+      "isFeatured": false,
+      "preparationTime": "12 mins",
+      "spiciness": "Medium",
+      "tags": [
+        "Quick Bite"
+      ],
+      "createdAt": "2026-11-10T17:42:09.065Z"
+    },
+    {
+      "id": "menu_15",
+      "name": "Royal Nigerian Golden Meat Pies (2 Pcs)",
+      "category": "Snacks",
+      "description": "Flaky golden buttery pastry baked to perfection, stuffed with finely minced beef, diced Irish potatoes, carrots, and rich savory herb gravy.",
+      "price": 2500,
+      "image": "/src/assets/images/hero_nigerian_feast_1794331884704.jpg",
+      "isAvailable": true,
+      "isFeatured": false,
+      "preparationTime": "5 mins",
+      "spiciness": "Mild",
+      "tags": [
+        "Snack Classic"
+      ],
+      "createdAt": "2026-11-10T17:42:09.065Z"
+    },
+    {
+      "id": "menu_16",
+      "name": "Warm Sweet Puff-Puff Basket (10 Pcs)",
+      "category": "Snacks",
+      "description": "Traditional deep-fried golden yeast dough balls, soft and pillowy on the inside, lightly dusted with organic cinnamon and confectioner sugar.",
+      "price": 1800,
+      "image": "/src/assets/images/hero_nigerian_feast_1794331884704.jpg",
+      "isAvailable": true,
+      "isFeatured": false,
+      "preparationTime": "10 mins",
+      "spiciness": "None",
+      "tags": [
+        "Sweet Snack"
+      ],
+      "createdAt": "2026-11-10T17:42:09.065Z"
+    },
+    {
+      "id": "menu_17",
+      "name": "Artisanal Hibiscus Zobo Infusion with Cloves & Ginger",
+      "category": "Drinks",
+      "description": "Slow-brewed dried organic hibiscus calyces infused with fresh pressed ginger juice, cloves, sweet pineapple chunks, and citrus peel. Served chilled over crushed ice.",
+      "price": 1800,
+      "image": "/src/assets/images/dish_jollof_deluxe_1794331885583.jpg",
+      "isAvailable": true,
+      "isFeatured": true,
+      "preparationTime": "5 mins",
+      "spiciness": "None",
+      "tags": [
+        "Refreshing",
+        "Organic"
+      ],
+      "createdAt": "2026-11-10T17:42:09.065Z"
+    },
+    {
+      "id": "menu_18",
+      "name": "Classic Lagos Chapman Mocktail",
+      "category": "Drinks",
+      "description": "Nigeria’s signature cocktail created with sparkling Fanta & Sprite, aromatic dash of Angostura bitters, fresh cucumber ribbons, and orange wedges.",
+      "price": 2500,
+      "image": "/src/assets/images/dish_jollof_deluxe_1794331885583.jpg",
+      "isAvailable": true,
+      "isFeatured": true,
+      "preparationTime": "5 mins",
+      "spiciness": "None",
+      "tags": [
+        "Cocktail"
+      ],
+      "createdAt": "2026-11-10T17:42:09.065Z"
+    },
+    {
+      "id": "menu_19",
+      "name": "Caramelized Plantain Tart with Vanilla Bean Glaze",
+      "category": "Desserts",
+      "description": "Warm French pastry shell filled with spiced caramelized dodo plantains, spiced rum caramel, and a scoop of velvety vanilla bean ice cream.",
+      "price": 3800,
+      "image": "/src/assets/images/dish_jollof_deluxe_1794331885583.jpg",
+      "isAvailable": true,
+      "isFeatured": false,
+      "preparationTime": "10 mins",
+      "spiciness": "None",
+      "tags": [
+        "Sweet Finish"
+      ],
+      "createdAt": "2026-11-10T17:42:09.065Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord_1794332646374",
+      "orderNumber": "TFK-1781-9R",
+      "customerName": "Chinedu Okafor",
+      "customerPhone": "08031234567",
+      "orderType": "delivery",
+      "deliveryAddress": "Plot 8, Adeyemi Lawson Street, Ikoyi, Lagos",
+      "items": [
+        {
+          "menuItemId": "menu_1",
+          "name": "Smokey Party Jollof Rice with Grilled Chicken & Dodo",
+          "price": 5500,
+          "quantity": 1,
+          "image": "/src/assets/images/dish_jollof_deluxe_1794331885583.jpg"
+        }
+      ],
+      "subtotal": 5500,
+      "deliveryFee": 1500,
+      "totalAmount": 7000,
+      "paymentMethod": "pay_on_delivery",
+      "paymentStatus": "unpaid",
+      "status": "Pending",
+      "createdAt": "2026-11-10T17:44:06.374Z",
+      "updatedAt": "2026-11-10T17:44:06.374Z"
+    },
+    {
+      "id": "ord_1",
+      "orderNumber": "TFK-9214-A8",
+      "customerName": "Chidinma Adeleke",
+      "customerPhone": "08034567812",
+      "customerEmail": "chidinma.a@gmail.com",
+      "orderType": "delivery",
+      "deliveryAddress": "Block 4, Flat 12, Admiralty Way, Lekki Phase 1, Lagos",
+      "specialInstructions": "Please make the Jollof rice extra smoky. Ring bell upon arrival.",
+      "items": [
+        {
+          "menuItemId": "menu_1",
+          "name": "Smokey Party Jollof Rice with Grilled Chicken & Dodo",
+          "price": 5500,
+          "quantity": 2
+        },
+        {
+          "menuItemId": "menu_17",
+          "name": "Artisanal Hibiscus Zobo Infusion with Cloves & Ginger",
+          "price": 1800,
+          "quantity": 2
+        }
+      ],
+      "subtotal": 14600,
+      "deliveryFee": 1500,
+      "totalAmount": 16100,
+      "paymentMethod": "pay_on_delivery",
+      "paymentStatus": "unpaid",
+      "status": "Delivered",
+      "createdAt": "2026-11-08T17:42:09.065Z",
+      "updatedAt": "2026-11-08T18:42:09.065Z"
+    },
+    {
+      "id": "ord_2",
+      "orderNumber": "TFK-6743-M2",
+      "customerName": "Babajide Ogundipe",
+      "customerPhone": "08129876543",
+      "customerEmail": "babajide.o@outlook.com",
+      "orderType": "delivery",
+      "deliveryAddress": "23 Adeola Odeku Street, Victoria Island, Lagos",
+      "specialInstructions": "Suya should be extra spicy with plenty onions.",
+      "items": [
+        {
+          "menuItemId": "menu_9",
+          "name": "Flaming Beef Suya Platter with Yaji & Sliced Red Onions",
+          "price": 4800,
+          "quantity": 2
+        },
+        {
+          "menuItemId": "menu_5",
+          "name": "Special Egusi Soup with Assorted Meats & Pounded Yam",
+          "price": 7500,
+          "quantity": 1
+        },
+        {
+          "menuItemId": "menu_18",
+          "name": "Classic Lagos Chapman Mocktail",
+          "price": 2500,
+          "quantity": 2
+        }
+      ],
+      "subtotal": 22100,
+      "deliveryFee": 1500,
+      "totalAmount": 23600,
+      "paymentMethod": "paystack",
+      "paymentStatus": "paid",
+      "paystackReference": "pstk_ref_9281746201",
+      "status": "Preparing",
+      "createdAt": "2026-11-10T14:42:09.065Z",
+      "updatedAt": "2026-11-10T16:42:09.065Z"
+    },
+    {
+      "id": "ord_3",
+      "orderNumber": "TFK-4519-P5",
+      "customerName": "Fatima Sanusi",
+      "customerPhone": "09051234567",
+      "customerEmail": "fatima.sanusi@yahoo.com",
+      "orderType": "pickup",
+      "deliveryAddress": "Pickup in Restaurant",
+      "specialInstructions": "Ready by 2:00 PM please.",
+      "items": [
+        {
+          "menuItemId": "menu_10",
+          "name": "Charcoal Grilled Whole Croaker Fish with Yam Chips",
+          "price": 12500,
+          "quantity": 1
+        }
+      ],
+      "subtotal": 12500,
+      "deliveryFee": 0,
+      "totalAmount": 12500,
+      "paymentMethod": "pay_on_pickup",
+      "paymentStatus": "unpaid",
+      "status": "Confirmed",
+      "createdAt": "2026-11-10T16:42:09.065Z",
+      "updatedAt": "2026-11-10T17:12:09.065Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev_1",
+      "customerName": "Dr. Emeka Nwosu",
+      "rating": 5,
+      "comment": "Hands down the best party Jollof rice in Lagos! The smoky firewood aroma was authentic and the grilled chicken was so tender. Ordering online was seamless.",
+      "dishOrdered": "Smokey Party Jollof Rice",
+      "status": "approved",
+      "createdAt": "2026-11-05T17:42:09.065Z"
+    },
+    {
+      "id": "rev_2",
+      "customerName": "Aisha Bello",
+      "rating": 5,
+      "comment": "The Egusi soup with pounded yam reminds me of my grandmother’s kitchen in Enugu. Generous assorted meats, perfectly seasoned. Will definitely be a regular customer!",
+      "dishOrdered": "Special Egusi Soup with Pounded Yam",
+      "status": "approved",
+      "createdAt": "2026-11-07T17:42:09.065Z"
+    },
+    {
+      "id": "rev_3",
+      "customerName": "Tunde Bakare",
+      "rating": 5,
+      "comment": "The beef suya platter with cold Chapman is exceptional. Crisp onions, spicy yaji that hits just right. Quick delivery and beautiful packaging.",
+      "dishOrdered": "Flaming Beef Suya Platter",
+      "status": "approved",
+      "createdAt": "2026-11-09T17:42:09.065Z"
+    },
+    {
+      "id": "rev_4",
+      "customerName": "Folake Adeyemi",
+      "rating": 4,
+      "comment": "Very tasty seafood okro soup! The crab and prawns were fresh. Delivery took 35 minutes during rush hour, but food arrived piping hot.",
+      "dishOrdered": "Seafood Okro Soup",
+      "status": "approved",
+      "createdAt": "2026-11-10T05:42:09.065Z"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal_1",
+      "title": "The Grand Nigerian Royal Feast",
+      "category": "Nigerian Meals",
+      "imageUrl": "/src/assets/images/hero_nigerian_feast_1794331884704.jpg",
+      "description": "Our signature banquet presentation featuring celebratory Jollof rice, grilled tiger prawns, and spicy goat meat delicacies.",
+      "createdAt": "2026-11-10T17:42:09.065Z"
+    },
+    {
+      "id": "gal_2",
+      "title": "Authentic Firewood Jollof Masterpiece",
+      "category": "Nigerian Meals",
+      "imageUrl": "/src/assets/images/dish_jollof_deluxe_1794331885583.jpg",
+      "description": "Smokey long-grain rice carefully slow-cooked with roasted plum tomatoes and scotch bonnets.",
+      "createdAt": "2026-11-10T17:42:09.065Z"
+    },
+    {
+      "id": "gal_3",
+      "title": "Charcoal Suya on Dark Slate",
+      "category": "Grilled Dishes",
+      "imageUrl": "/src/assets/images/dish_grilled_suya_1794331885995.jpg",
+      "description": "Tender beef skewers with authentic Northern Nigerian spices and sliced fresh red onions.",
+      "createdAt": "2026-11-10T17:42:09.065Z"
+    },
+    {
+      "id": "gal_4",
+      "title": "Velvety Egusi & Pounded Yam Presentation",
+      "category": "Nigerian Meals",
+      "imageUrl": "/src/assets/images/dish_swallow_egusi_1794331886342.jpg",
+      "description": "Artisanal clay bowl presentation of melon seed soup alongside fresh pounded yam.",
+      "createdAt": "2026-11-10T17:42:09.065Z"
+    },
+    {
+      "id": "gal_5",
+      "title": "The Future Kitchen Dining Room",
+      "category": "Restaurant Interior",
+      "imageUrl": "/src/assets/images/restaurant_interior_1794331885410.jpg",
+      "description": "Warm brass chandeliers, lush tropical botanicals, and plush forest green velvet seating.",
+      "createdAt": "2026-11-10T17:42:09.065Z"
+    }
+  ],
+  "settings": {
+    "name": "The Future Kitchen",
+    "tagline": "FRESH FOOD. AMAZING FLAVOUR. UNFORGETTABLE MOMENTS.",
+    "welcomeMessage": "Good Food. Great Moments.",
+    "shortIntro": "Where traditional Nigerian culinary heritage meets contemporary fine dining craft. Every dish is cooked with passion, fresh local ingredients, and authentic wood-fire techniques.",
+    "phone1": "+234 803 456 7890",
+    "phone2": "+234 812 345 6789",
+    "email": "orders@thefuturekitchen.ng",
+    "whatsapp": "+2348034567890",
+    "address": "14 Adetokunbo Ademola Street, Victoria Island, Lagos, Nigeria",
+    "openingHoursWeekdays": "8:00 AM – 10:30 PM (Monday – Saturday)",
+    "openingHoursSunday": "12:00 PM – 10:00 PM (Sunday)",
+    "standardDeliveryFee": 1500,
+    "freeDeliveryThreshold": 25000,
+    "currencySymbol": "₦",
+    "paystack": {
+      "enabled": true,
+      "publicKey": "pk_test_futurekitchen_sample_key",
+      "secretKey": "sk_test_futurekitchen_sample_secret",
+      "testMode": true
+    }
+  },
+  "contactMessages": [],
+  "admin": {
+    "id": "admin_1",
+    "username": "admin",
+    "email": "admin@thefuturekitchen.ng",
+    "salt": "4781aa418948cccb87843c86c047c5dd",
+    "passwordHash": "c57567edc09b454c18d63291f128eaa1226c48f5d2a04b87183c33163f8b3f8d83b7eb520928c65914ce701de8daa71168b8bcc7304d5280e9c4190e5690bc43",
+    "sessionTokens": [
+      {
+        "token": "02318b907422fd70e0af0e30968b42d8661b46d8649cf82159190455734c5561",
+        "createdAt": 1794332670720,
+        "expiresAt": 1794937470720
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "The Future Kitchen",
+  "description": "Premium modern restaurant website and online ordering system for authentic Nigerian cuisine with admin management, real-time cart, and delivery tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
